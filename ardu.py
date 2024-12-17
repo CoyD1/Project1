@@ -32,4 +32,5 @@ def get_temperature():
 
 if __name__ == '__main__': 
     app.run(debug=False, port=5010)  # Запускаем сервер Flask на порту 5000
-#Комментарий    
+#Комментарий
+#Еще один комментарий    
